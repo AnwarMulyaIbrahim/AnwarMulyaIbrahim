@@ -1,11 +1,10 @@
 ![Header](img/github-header-image.png)
 ---
+### 🤩You can check My Portfolio Website at:
+#### 💻 [My Portfolio Website](https://anwarmulyaibrahim.vercel.app/)
 
-🌱 I'm currently a student of **Informatics Engineering**, actively involved in:
-- Internship program
-- Personal backend development projects
-
-
+---
+### 🛠️ Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
   <img width="12" />
@@ -24,17 +23,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
 </div>
 
-###
+---
+
+### 📫 You can reach me at:
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.instagram.com/war_0690/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/+6282124610492" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
-
-- 🌍 [My Portfolio Website](https://anwarmulyaibrahim.vercel.app/)
+---
 
 ###
 
@@ -50,34 +53,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnwarMulyaIbrahim/AnwarMulyaIbrahim/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-
-
-<!-- 🛠️ Tech Stack:
-- 💻 Laravel, MySQL, REST API
-- 🧪 Postman
-- 🌐 HTML, CSS, JavaScript
-
-🔧 Tools I use often:
-- Visual Studio Code
-- Git & GitHub
-- Postman
-
-📫 You can reach me at:
-- 🌍 [My Portfolio Website](https://anwarmulyaibrahim.vercel.app/)
-- 📷 [Instagram](https://www.instagram.com/war_0690/)
-- 📱 WhatsApp: +62 82124610492
-
----
-
-💡 Fun Fact:
-> Code. Sleep. Repeat.
-
----
-
-
-### 🐍 GitHub Contribution Snake
-
-![GitHub Snake Light](https://github.com/AnwarMulyalbrahim/snk/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake Dark](https://github.com/AnwarMulyalbrahim/snk/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark) -->
